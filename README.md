@@ -2,11 +2,15 @@
 
 #My Information
 
-1.Name: Krishna chaturvedi
-2.Registration Number: 25BCE10345
-3.Branch: Computer Science and Engineering(Core)
-4.Year: First Year (B.Tech)
-5.Institution: VIT Bhopal University
+ 1.Name: Krishna chaturvedi
+ 
+ 2.Registration Number: 25BCE10345
+ 
+ 3.Branch: Computer Science and Engineering(Core)
+ 
+ 4.Year: First Year (B.Tech)
+ 
+ 5.Institution: VIT Bhopal University
 
 #Project Overview
 
@@ -14,11 +18,11 @@ This repository contains all the projects from digital literacy course that i ma
 
 #Module Summaries
 
-->Module 1: Digital Literacy Awareness Infographic 
-->Module 2: Digital Portfolio 
-->Module 3: Coding & Collaboration Platforms 
-->Module 4: Professional Email & Etiquette Guide 
-->Module 5: cybercrime casestudy and prevention-checklist.
+Module 1: Digital Literacy Awareness Infographic,
+Module 2: Digital Portfolio, 
+Module 3: Coding & Collaboration Platforms, 
+Module 4: Professional Email & Etiquette Guide, 
+Module 5: cybercrime casestudy and prevention-checklist.
 
 #Project Links
 
