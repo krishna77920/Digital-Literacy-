@@ -2,11 +2,11 @@
 
 #My Information
 
--Name: Krishna chaturvedi
--Registration Number: 25BCE10345
--Branch: Computer Science and Engineering(Core)
--Year: First Year (B.Tech)
--Institution: VIT Bhopal University
+1.Name: Krishna chaturvedi
+2.Registration Number: 25BCE10345
+3.Branch: Computer Science and Engineering(Core)
+4.Year: First Year (B.Tech)
+5.Institution: VIT Bhopal University
 
 #Project Overview
 
